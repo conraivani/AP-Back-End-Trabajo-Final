@@ -1,7 +1,7 @@
 # AP-Back-End-Trabajo-Final
 
-Argentina Programa
-Universidad Nacional De La Pampa
+Argentina Programa -
+Universidad Nacional De La Pampa -
 Explicación de la resolución y especificaciones técnicas: 
 
 Para este trabajo final, se realizó un sitio con artículos sobre música, de interfaz simple y fácil de utilizar. 
